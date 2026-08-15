@@ -46,7 +46,7 @@
         >
 
         <h1>Your Name</h1>
-
+Princess Sidol
         <p>
             Student | Reader | Chess Enthusiast | Creative
         </p>
