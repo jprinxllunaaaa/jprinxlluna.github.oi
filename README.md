@@ -45,8 +45,8 @@
             class="profile"
         >
 
-        <h1>Your Name</h1>
-          Princess Sidol
+        <h1>Princess Sidol</h1>
+          
         <p>
             Student | Reader | Chess Enthusiast | Creative
         </p>
