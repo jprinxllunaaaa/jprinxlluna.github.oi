@@ -252,7 +252,7 @@
     <footer>
 
         <p>
-            © 2026 Your Name. All rights reserved.
+            © 2026 Princess Sidol. All rights reserved.
         </p>
 
     </footer>
